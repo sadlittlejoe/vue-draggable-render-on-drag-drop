@@ -1,4 +1,4 @@
-# test-project
+# Example Vue Draggable
 
 > A Vue.js project
 
